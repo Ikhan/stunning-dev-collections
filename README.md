@@ -42,3 +42,17 @@ Below are the some of the useful collections related to both frontend and backen
 # Devops , Security Admin, Practioners
 [**Free for dev**](https://free-for.dev/) Free resources for devops, system admin <br/>
 
+# Microservices
+[**Microservice From A-Z](https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28) This article explains what is mircorservice to concrete example
+
+# NodeJS
+[**Dependency Injection**](https://levelup.gitconnected.com/node-js-advanced-pattern-dependency-injection-container-fc58a1946638) Explains what is Dependency Injection is <br/>
+
+[**Everything to know About NodeJS**](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc) Explains what is Node and how it handles block I/O operations<br/>
+[**Design Pattern**](https://itnext.io/design-patterns-in-nodejs-990fed17c49c) Some of the useful design pattern in NodeJS <br/>
+[**Scale NodeJS**](https://medium.com/free-code-camp/how-to-scale-your-node-js-server-using-clustering-c8d43c656e8f) Explains how to scale NodeJS using cluster <br/>
+[**Video Streaming in NodeJS**](https://betterprogramming.pub/video-stream-with-node-js-and-html5-320b3191a6b6) how to video stream using NodeJS<br/>
+[**NodeJS & internal modle**](https://itnext.io/deep-dive-into-node-js-module-architecture-b80fbd22dacb) Deep dive into Nodejs module architecture.<br/>
+[**NodeJS & Debugging**](https://www.freecodecamp.org/news/node-js-debugging/) Explains how to fix bugs using VSCODE , Docker and Terminal<br/>
+[**Eventloop utilization**](https://nodesource.com/blog/event-loop-utilization-nodejs?utm_medium=Social&utm_source=twitter&utm_campaign=social) What is event loop utilization <br/>
+[**NodeJS Performance Factors**](https://javascript.plainenglish.io/how-many-requests-can-handle-a-real-world-nodejs-server-side-application-55da7a2f06f3) NodeJS performance factors <br/>
