@@ -56,4 +56,7 @@ Below are the some of the useful collections related to both frontend and backen
 [**NodeJS & Debugging**](https://www.freecodecamp.org/news/node-js-debugging/) Explains how to fix bugs using VSCODE , Docker and Terminal<br/>
 [**Eventloop utilization**](https://nodesource.com/blog/event-loop-utilization-nodejs?utm_medium=Social&utm_source=twitter&utm_campaign=social) What is event loop utilization <br/>
 [**NodeJS Performance Factors**](https://javascript.plainenglish.io/how-many-requests-can-handle-a-real-world-nodejs-server-side-application-55da7a2f06f3) NodeJS performance factors <br/>
-[**Buffer in NodeJS**](https://ruanmartinelli.com/posts/a-complete-guide-to-buffers) All about buffer in NodeJS
+[**Buffer in NodeJS**](https://ruanmartinelli.com/posts/a-complete-guide-to-buffers) All about buffer in NodeJS<br/>
+
+# SOLID PRINCIPLE
+[**SOLID PRINCIPLE**](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/) SOLID principles are still the foundation for modern software architecture<br/>
